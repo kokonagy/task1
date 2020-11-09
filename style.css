@@ -1,0 +1,108 @@
+body{
+	width:100%;
+	margin-top:0px;
+	margin-left:0px;
+	height:2000px;
+	background-color:green;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bes
+{
+background-color:green;
+	width:100%;
+	height:50px;
+	margin-top:none;
+}
+.par
+{
+	float:left;
+	color:white;
+	list-style:none;
+	margin-top:15px;
+	margin-right:29px;
+	font-size:20px;
+
+	
+	
+}
+
+
+
+a
+{text-decoration:none; 
+color:white;
+width:100%;
+ }
+	
+a:hover
+{
+	
+	color:yellow;
+
+	
+	
+}
+img{
+	background-size:cover;
+	width:100%;
+	height:680px;
+	
+}
+.container
+{
+	width:1170 px;
+	margin-left:300px;
+	margin-top:20px;
+}
+
+.besho
+{
+	text-align:justify;
+	margin-left:30px;
+
+	height:250px;
+	width:24%;
+	float:left;
+	color:white;
+	
+}
+.contactz
+{
+	margin-left:300px;
+
+	 height:200px;
+}
+.zx
+{
+	margin-left:120px;
+	
+	width:30%;
+	height:40px;
+	font-size:24px;
+	text-color:white;
+	background-color:7e7474;
+	
+	
+}
+.xx
+{
+	margin-top:20px;
+
+ margin-left:480px;
+	width:15%;
+	height:40px;
+	font-size:24px;
+	text-color:white;
+	background-color:#5CBAB6;
+	
+	
+}
+.xx:hover{
+	
+	color:red;
+	background-color:yellow;
+	
+}
+
